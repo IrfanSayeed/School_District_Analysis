@@ -50,7 +50,7 @@ Scores by school type: Increase
  
  The greater impact can be seen in the top 5 performing schools.  Initially, Thomas High School ranked 2nd in the top performing schools; however, upon reassessment we can see Thomas High School falling out of the top 5 schools, from 2dn to 8th place.
  
-![Top5_Bottom5](https://user-images.githubusercontent.com/89538802/134688731-95e8e0b2-fd86-45e1-b7ca-9363db73444e.PNG)
+
 
 * **How does replacing the ninth-grade scores affect the following:**
 
@@ -68,7 +68,6 @@ Scores by school type: Increase
       * % Passing Reading decreased by 7%
       * % Overall Passing decreased by 7%
  
-     ![Scores_By_Spending](https://user-images.githubusercontent.com/89538802/134687928-c469fd5f-6758-40bd-aec2-2f0aaa76e661.png)
      
      * **Scores by school size**
 
@@ -76,7 +75,6 @@ Scores by school type: Increase
       * % Passing Reading decreased by 6%
       * % Overall Passing decreased by 6%
  
-![Scores_By_Size](https://user-images.githubusercontent.com/89538802/134689485-20e0b7d8-df47-481e-b854-9db7e350e862.png)
 
      * **Scores by school type**
      
@@ -84,7 +82,7 @@ Scores by school type: Increase
       * % Passing Reading decreased by 4%
       * % Overall Passing decreased by 3%
       
-![Scores_By_Type](https://user-images.githubusercontent.com/89538802/134690305-2cd896c0-7b6c-4439-ad31-4ba1040885fb.png)
+
 
 ## **Summary:**
 
