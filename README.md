@@ -1,11 +1,11 @@
 # School_District_Analysis
 # **School_District_Analysis**
+##### Data Source: clean_students_complete.csv, schools_complete.csv, students_complete.csv (Saved in Source folder)
+##### Jupyter Codes: PyCitySchools_Challenge.ipynb
 
 ## **Background:**
 
 The school board has notified Maria and her supervisor that the students_complete.csv file shows evidence of academic dishonesty; specifically, reading and math grades for Thomas High School ninth graders appear to have been altered. Although the school board does not know the full extent of the academic dishonesty, they want to uphold state-testing standards and have turned to Maria for help. She has asked you to replace the math and reading scores for Thomas High School with NaNs while keeping the rest of the data intact. Once you’ve replaced the math and reading scores, Maria would like you to repeat the school district analysis that you did in this module and write up a report to describe how these changes affected the overall analysis.
-
-##### Data Source: clean_students_complete.csv, schools_complete.csv, students_complete.csv (Saved in Source folder)
 
 ## **Overview of the School District Analysis:**
 
@@ -13,8 +13,7 @@ The purpose of the school district analysis is to provide understandings on scho
 
 ## **OUTCOMES:**
 
-Re-assessment of school summaries and individual school performance identified that grade 9 math and reading original scores were changed. The analysis was repeated using cleaned data, where all grade nine math and reading scores for Thomas High School were replaced with "NaN" values.  This affected 461 students of a total of 39,170 high school students in the district. Representing 1% of the student population test scores.
-
+Re-assessment of school summaries and individual school performance identified that grade 9 math and reading original scores were changed. The analysis was repeated using cleaned data, where all grade nine math and reading scores for Thomas High School were replaced with "NaN" values.  This affected 461 students of a total of 39,170 high school students in the district. 
 
 * **How is the district summary affected?**
 
@@ -88,6 +87,8 @@ Scores by school type: Increase
 ![Scores_By_Type](https://user-images.githubusercontent.com/89538802/134690305-2cd896c0-7b6c-4439-ad31-4ba1040885fb.png)
 
 ## **Summary:**
+
+In this analysis we removed all the values for the “Ninth Grade” students at Thomas High School. We did a summary for the scores of each school in math and reading. The Binning of the schools according to "Budget" and "school size", and to top it all of we formated the dataframe to make the values more presentable.
 
 Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
 
